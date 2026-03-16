@@ -1,0 +1,1 @@
+import{d as t,e as p,u as r,f as s,o as u}from"./index-CdelZ_x5.js";const m=t({__name:"index",setup(a){let e=n=>{console.log(n)};return(n,c)=>{const o=s("x-input");return u(),p(o,{onTrimInput:r(e)},null,8,["onTrimInput"])}}});export{m as default};
