@@ -1,1 +1,0 @@
-import{_ as o,c,o as t,a as n,f as r}from"./index-CdelZ_x5.js";const s={};function a(_,i){const e=r("x-progress");return t(),c("div",null,[n(e,{isAnimation:"",percentage:60}),n(e,{type:"circle",isAnimation:"",percentage:60})])}const d=o(s,[["render",a],["__scopeId","data-v-a1e0e599"]]);export{d as default};

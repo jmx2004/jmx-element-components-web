@@ -1,0 +1,1 @@
+import{d as t,r as s,c as l,a as n,w as r,i as d,u,x as i,o as f,b as m}from"./index--KF8VQLd.js";const _=t({__name:"index",setup(p){let e=s(!1);return(x,a)=>(f(),l("div",null,[n(i,{title:"选择图标",modelValue:u(e),"onUpdate:modelValue":a[0]||(a[0]=o=>d(e)?e.value=o:e=o)},{default:r(()=>[...a[1]||(a[1]=[m(" 选择图标 ",-1)])]),_:1},8,["modelValue"])]))}});export{_ as default};

@@ -1,1 +1,0 @@
-import{d as a,e as s,u as c,f as r,o as t}from"./index-CdelZ_x5.js";const m=a({__name:"index",setup(_){let o=e=>{console.log(e)};return(e,l)=>{const n=r("x-choose-area");return t(),s(n,{onChange:c(o)},null,8,["onChange"])}}});export{m as default};
